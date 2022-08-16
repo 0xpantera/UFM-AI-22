@@ -4,7 +4,7 @@ Este repositorio contiene el código para la clase de Inteligencia Artificial de
 
 ## Empezando
 
-Pueden correr estos notebooks en plataformas cloud como Google Colab o en su máquina local. Noten que la mayoría de notebooks requieren de un GPU para correr en un lapso de tiempo razonable, así que recomiendo que utilicen una de las plataformas cloud ya que vienen preinstaladas con CUDA.
+Pueden correr estos notebooks en plataformas cloud como [Google Colab](https://colab.research.google.com/) o en su máquina local. Noten que la mayoría de notebooks requieren de un GPU para correr en un lapso de tiempo razonable, así que recomiendo que utilicen una de las plataformas cloud ya que vienen preinstaladas con CUDA.
 
 ### Utilizando una plataforma cloud
 

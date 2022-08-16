@@ -1,4 +1,4 @@
-# Inteligencia Artificial - Universidad Francisco Marro
+# Inteligencia Artificial - Universidad Francisco Marroquín
 
 Este repositorio contiene el código para la clase de Inteligencia Artificial de la Facultad de Ciencias Económicas de la Universidad Francisco Marroquín.
 

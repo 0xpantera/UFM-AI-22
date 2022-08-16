@@ -8,7 +8,7 @@ Pueden correr estos notebooks en plataformas cloud como Google Colab o en su má
 
 ### Utilizando una plataforma cloud
 
-Actualmente, los GPUs en Colab tienden a ser K80s (los cuales tienen memoria limitada), por lo que recomiendo que utilicen Kaggle, Gradient o SageMaker Studio Lab. Estas plataformas tienden a proveer GPUs con mejor desempeño como P100s, sin costo.
+Actualmente, los GPUs en Colab tienden a ser K80s (los cuales tienen memoria limitada), por lo que recomiendo que utilicen [Kaggle](https://www.kaggle.com/docs/notebooks), [Gradient](https://gradient.run/notebooks) o [SageMaker Studio Lab](https://studiolab.sagemaker.aws/). Estas plataformas tienden a proveer GPUs con mejor desempeño como P100s, sin costo.
 
 > Nota: algunas plataformas cloud como Kaggle requieren que reinicien el notebook después de instalar nuevas librerías.
 

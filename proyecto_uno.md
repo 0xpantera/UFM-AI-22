@@ -38,14 +38,16 @@ Para cada una de las arquitecturas de redes neuronales que se mencionan a contin
 
 ### **Arquitecturas a Explorar**
 
-1. **Convolutional Neural Networks (CNN)**
+1. **Convolutional Neural Networks ([CNN](https://mila.quebec/wp-content/uploads/2016/03/2015-lecun-bengio-hinton-nature.pdf))**
    - Ideal para problemas relacionados con imágenes y visión por computadora.
 
 2. **Recurrent Neural Networks (RNN)**
    - Adecuada para procesamiento de secuencias y series temporales.
 
-3. **Long Short-Term Memory Networks (LSTM)**
+3. **Long Short-Term Memory Networks ([LSTM](https://deeplearning.cs.cmu.edu/F23/document/readings/LSTM.pdf))**
    - Útil para tareas que requieren memoria de largo plazo, como traducción automática y reconocimiento de voz.
+
+4. **Generative Adversarial Network ([GAN](https://arxiv.org/abs/1406.2661))**
 
 ### **Entregables**
 
